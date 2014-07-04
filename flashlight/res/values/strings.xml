@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flashlight</string>
+    <string name="notification_title">Flashlight</string>
+    <string name="notification_text">Click to turn off the flashlight.</string>
+    
+    <string name="dialog_title">Notice</string>
+    <string name="dialog_text">Sorry, your device doesn\'t support flash light</string>
+	<string name="dialog_button">OK</string>
+</resources>
